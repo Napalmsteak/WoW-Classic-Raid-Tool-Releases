@@ -11,21 +11,44 @@ Supports **Classic Era**, **Season of Discovery**, **Forever** (beta), **TBC**, 
 
 ## Features
 
-- **Guilds:** import your guild roster from Blizzard and see every member's class, level and
-  Gear Score. Open a character sheet with their equipped gear, enchants and stats.
-- **Roster Builder:** drag players into raid groups for 10, 20, 25 or 40-player raids. Keep a
-  bench and notes, and link the roster to the raids it runs.
-- **Schedule:** one-off or weekly raid nights. The Dashboard shows what's next.
-- **BiS Lists:** import your guild's lists from That's My BiS and track everyone's progress
-  against what they actually have equipped.
-- **Loot Tracker:** log who got what from which boss, with a +1 system. Boss and item pickers come
-  from the raids the roster runs.
+- **Guilds:** import your guild roster from Blizzard (US, EU, Korea or Taiwan realms) and see
+  every member's class, race, level and Gear Score. Refresh every character in one go, or add
+  members by hand.
+- **Character sheets:** each member's equipped gear with full tooltips, gems and enchants, their
+  base, melee, spell and defense stats, and resistances. The header sums them up:
+  - **Gear Score**, worked out from their item levels with the GearScore / TacoTip formula.
+  - **Their main power stat**: bonus healing for healers (gear, gems, enchants and socket bonuses
+    added up), spell power for casters, or attack power for melee. Hunters get ranged attack
+    power, which Blizzard doesn't report, so it's estimated from their profile.
+  - **Item level**.
+- **Roster Builder:** drag-and-drop players into raid groups for 10, 20, 25 or 40-player raids,
+  or click a player and then a slot. Keep a bench, set roles, add notes per player, and switch to
+  a list view with everyone's +1 count. Lock a roster so it can't change by accident, duplicate
+  or archive it, and look back at its change history. Link it to the raids it runs.
+- **Schedule:** one-off, multi-day or weekly raid nights, optionally tied to a roster. The
+  Dashboard shows the next raid and what is coming up.
+- **BiS Lists:** import your guild's lists from That's My BiS (wishlists, priorities and loot
+  received; alts and off-spec optional). Track everyone's progress and compare each item with
+  what they have equipped in that slot.
+- **Loot Tracker:** log who got what from which boss, roster by roster, with a +1 system and a
+  reset. The boss and item pickers come from the raids the roster runs.
 - **Item Database:** 68,000+ items with full tooltips and icons, searchable by name, raid, boss or
   source: dungeons, raids, crafting, vendors, reputation, PvP and more. It includes leveling gear
   at every level and every profession's recipes with the materials they need, plus vendor sell
-  prices and filters by quality, slot, type, level and class.
+  prices and filters by quality, slot, type, level, binding and class.
 - **Alliance or Horde:** a dark theme in your faction's colors and artwork.
 - **Your language:** see [Languages](#languages).
+
+### Import and export
+
+| What | Bring it in from | Take it out as |
+|---|---|---|
+| Guild roster and characters | Blizzard (by realm and guild name) | — |
+| Rosters | A roster file from the app, or a CSV (Name, Class, Role, Server, Notes) | A roster file to share with other officers |
+| BiS lists | That's My BiS (its CSV export) | — |
+| Everything | A backup file | A backup file of your guilds, rosters, BiS lists and loot log |
+
+Restoring a backup first saves a copy of your current data, in case you need it back.
 
 ## Screenshots
 
