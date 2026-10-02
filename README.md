@@ -5,7 +5,7 @@ raid groups, raid schedule, BiS lists and loot log in one place, with a built-in
 of real tooltips and icons that works offline.
 
 Supports **Classic Era**, **Season of Discovery**, **Forever** (beta), **TBC**, **Wrath**,
-**Cataclysm** and **Mists of Pandaria Classic**.
+**Cataclysm** and **Mists of Pandaria Classic**, in nine languages.
 
 ![Dashboard](screenshots/dashboard.png)
 
@@ -20,9 +20,12 @@ Supports **Classic Era**, **Season of Discovery**, **Forever** (beta), **TBC**, 
   against what they actually have equipped.
 - **Loot Tracker:** log who got what from which boss, with a +1 system. Boss and item pickers come
   from the raids the roster runs.
-- **Item Database:** 51,000+ items with full tooltips and icons, searchable by name, raid, boss or
-  source: dungeons, raids, crafting, vendors, reputation, PvP and more.
+- **Item Database:** 68,000+ items with full tooltips and icons, searchable by name, raid, boss or
+  source: dungeons, raids, crafting, vendors, reputation, PvP and more. It includes leveling gear
+  at every level and every profession's recipes with the materials they need, plus vendor sell
+  prices and filters by quality, slot, type, level and class.
 - **Alliance or Horde:** a dark theme in your faction's colors and artwork.
+- **Your language:** see [Languages](#languages).
 
 ## Screenshots
 
@@ -36,8 +39,29 @@ Supports **Classic Era**, **Season of Discovery**, **Forever** (beta), **TBC**, 
 | **BiS Lists:** the guild's progress | **BiS list:** each item against what's equipped |
 | ![Item Database](screenshots/database.png) | ![Horde theme](screenshots/dashboard-horde.png) |
 | **Item Database:** filtered to Serpentshrine Cavern | **Horde theme** |
+| ![Settings in German](screenshots/settings-german.png) | |
+| **In German:** Settings, with the language picker | |
 
 *The screenshots show an example guild with real TBC Classic items.*
+
+## Languages
+
+The app is available in:
+
+| | |
+|---|---|
+| English | Русский (Russian) |
+| Deutsch (German) | Português (Brasil) |
+| Français (French) | 한국어 (Korean) |
+| Español (Spanish) | 简体中文 (Simplified Chinese) |
+| | 繁體中文 (Traditional Chinese) |
+
+It starts in your Windows language when it's one of these, otherwise in English. Change it any
+time in **Settings ▸ Language**. Classes, roles, slots, stats, professions and item qualities use
+the game's own names in each language, and dates and numbers follow the language you choose.
+
+Item names and tooltips are still in English in every language. The translations other than
+English are drafts: if something reads wrong in your language, please [open an issue](../../issues).
 
 ## Install
 
