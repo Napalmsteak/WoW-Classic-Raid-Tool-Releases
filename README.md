@@ -32,7 +32,7 @@ Supports **Classic Era**, **Season of Discovery**, **Forever** (beta), **TBC**, 
   what they have equipped in that slot.
 - **Loot Tracker:** log who got what from which boss, roster by roster, with a +1 system and a
   reset. The boss and item pickers come from the raids the roster runs.
-- **Item Database:** 68,000+ items with full tooltips and icons, searchable by name, raid, boss or
+- **Item Database:** 72,000+ items with full tooltips and icons, searchable by name, raid, boss or
   source: dungeons, raids, crafting, vendors, reputation, PvP and more. It includes leveling gear
   at every level and every profession's recipes with the materials they need, plus vendor sell
   prices and filters by quality, slot, type, level, binding and class.
