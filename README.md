@@ -1,4 +1,4 @@
-# WoW Classic Raid Tool
+# WoW Classic Raid Tools
 
 A Windows desktop app for World of Warcraft Classic raid leaders and planners. Keep your guild,
 raid groups, raid schedule, BiS lists, gear upgrades and loot log in one place, with a built-in
