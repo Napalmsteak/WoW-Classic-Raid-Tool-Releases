@@ -1,8 +1,8 @@
 # WoW Classic Raid Tool
 
 A Windows desktop app for World of Warcraft Classic raid leaders and planners. Keep your guild,
-raid groups, raid schedule, BiS lists and loot log in one place, with a built-in item database
-of real tooltips and icons that works offline.
+raid groups, raid schedule, BiS lists, gear upgrades and loot log in one place, with a built-in
+item database of real tooltips and icons that works offline.
 
 Supports **Classic Era**, **Season of Discovery**, **Forever** (beta), **TBC**, **Wrath**,
 **Cataclysm** and **Mists of Pandaria Classic**, in nine languages.
@@ -30,6 +30,12 @@ Supports **Classic Era**, **Season of Discovery**, **Forever** (beta), **TBC**, 
 - **BiS Lists:** import your guild's lists from That's My BiS (wishlists, priorities and loot
   received; alts and off-spec optional). Track everyone's progress and compare each item with
   what they have equipped in that slot.
+- **Upgrades:** pick any guild member with recorded gear and see, slot by slot, every item that
+  would be better for their spec: from raids, dungeons, crafting, vendors, reputation, PvP and
+  more, filtered by phase, quality and level. Items are scored with stat weights for each spec in
+  each game version (change them, or paste a Pawn string), hit, expertise and a tank's defense
+  count only up to their caps, and items on the member's BiS list are marked. It also points out
+  missing enchants and empty sockets. Open it from the page, or from a character sheet.
 - **Loot Tracker:** log who got what from which boss, roster by roster, with a +1 system and a
   reset. The boss and item pickers come from the raids the roster runs.
 - **Item Database:** 72,000+ items with full tooltips and icons, searchable by name, raid, boss or
@@ -62,8 +68,8 @@ Restoring a backup first saves a copy of your current data, in case you need it 
 | **BiS Lists:** the guild's progress | **BiS list:** each item against what's equipped |
 | ![Item Database](screenshots/database.png) | ![Horde theme](screenshots/dashboard-horde.png) |
 | **Item Database:** filtered to Serpentshrine Cavern | **Horde theme** |
-| ![Settings in German](screenshots/settings-german.png) | |
-| **In German:** Settings, with the language picker | |
+| ![Upgrades](screenshots/upgrades.png) | ![Settings in German](screenshots/settings-german.png) |
+| **Upgrades:** better items for a member's spec, slot by slot | **In German:** Settings, with the language picker |
 
 *The screenshots show an example guild with real TBC Classic items.*
 
